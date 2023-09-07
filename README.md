@@ -1,7 +1,7 @@
-### Project's Title
+# Project's Title
 ---
 
-### Table of Contents
+# Table of Contents
 - [Description](#description)
 - [Prerequisite](#Prerequisites)
 - [Features](#features)
@@ -27,10 +27,10 @@
 ## Description
 ---
 
-##  Prerequisites
+##  Prerequisite
 ---
 
-## How_To_Install
+## Getting Started
 ---
 To get started, follow these steps:
 1. : What to do
@@ -42,10 +42,12 @@ To get started, follow these steps:
    
    `cmd`
 
+   ###Prerequisites
+   ###Installation
 
-## How_To_Use_The_Project
+## Usage
 ---
-# Quick_Start 
+# Configuration
 1. : What to do
    
    `cmd`
