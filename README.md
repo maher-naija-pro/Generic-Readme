@@ -1,7 +1,8 @@
 # Project's Title
 ---
 
-# Table of Contents
+## Table of Contents
+---
 - [Description](#description)
 - [Prerequisite](#Prerequisites)
 - [Features](#features)
@@ -12,7 +13,7 @@
   - [Configuration](#configuration)
   - [Examples](#examples)
   - [Env_Vars](#Env_Vars)
-- [Help](#Help)
+  - [Help](#Help)
 - [Contributing](#contributing)
 - [Testing](#testing)
   
@@ -42,12 +43,13 @@ To get started, follow these steps:
    
    `cmd`
 
-   ###Prerequisites
-   ###Installation
+   ### Prerequisites
+   ### Installation
 
 ## Usage
 ---
-# Configuration
+
+### Configuration
 1. : What to do
    
    `cmd`
@@ -55,38 +57,38 @@ To get started, follow these steps:
 3. : What to do
 
    `cmd`
-   
-### License
----
-This project is licensed under the [MIT License](LICENSE).
-
-### Run_Tests
----
-
-
-### Help
----
-
-
- 
-### Build
----
-
-### Generate_Doc
----
-
-
-
-### Env_Vars
----
-
-
-
+   ### Examples
+   ### Env_Vars
 | ENV VAR Name | Description | Values | 
 |--------------|:-----------:|:------:|
 |  SECRET_KEY         |    User acces key value to auth to api |xxxx
 |  ACCESS_KEY         |    User secret key value to auth to api|xxxx
 
+
+   ### Help
+
+## Contributing
+---
+
+## Testing
+---
+
+## Deployment
+---
+### Build
+
+## Documentation
+---
+
+## Changelog
+---
+
+## License
+---
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+---
 
 ### Contact_Information
  E-mail: maher.naija@gmail.com
