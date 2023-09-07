@@ -8,51 +8,49 @@
 ##  Venv and requirement
 ---
 
-## How to Install and Run the Project
+## How to Install
 ---
-
-  1. : What to do
-
+1. : What to do
+   
    `cmd`
-  2. : What to do
-
+   
+2. : What to do
+   
    `cmd`
 
 
 ## How to Use the Project
 ---
 # Quick start 
-  1. : What to do
-
+1. : What to do
+   
    `cmd`
-  2. : What to do
+
+3. : What to do
 
    `cmd`
    
-## License
+### License
 ---
 
-## Run tests
+### Run tests
 ---
 
 
-  ### CLI help
- `python cli.py  --help`
-
- `python cli.py  model --help`
-
+### CLI help
+---
 
 
  
-# Build
+### Build
+---
 
-
-# Generate doc
+### Generate doc
 ---
 
 
 
-# Env vars
+### Env vars
 ---
 
 | ENV VAR Name | Description | Values | 
