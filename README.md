@@ -4,7 +4,7 @@
 ### Table of Contents
 - [Description](#description)
 - [Venv_And_Requirement](#Venv_And_Requirement)
-- [How To Instal](#How To Install)
+- [How_To_Instal](#How_To_Install)
 - [How_To_Use_The_Project](#How_To_Use_The_Project)
 - [License](#license)
 - [Run_Tests](#Run_Tests)
