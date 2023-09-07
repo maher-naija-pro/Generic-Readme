@@ -3,17 +3,15 @@
 
 ### Table of Contents
 - [Description](#description)
-- [Venv And Requirement](#Venv And Requirement)
+- [Venv_And_Requirement](#Venv_And_Requirement)
 - [How To Instal](#How To Install)
-- [How To Use The Project](#How To Use The Project)
+- [How_To_Use_The_Project](#How_To_Use_The_Project)
 - [License](#license)
-- [Run Tests](#Run Tests)
+- [Run_Tests](#Run_Tests)
 - [Help](#Help)
 - [Build](#Build)
-- [Generate Doc](#Generate Doc)
-- [Env Vars](#Env Vars)
-- [Build](#Build)
--  
+- [Generate_Doc](#Generate_Doc)
+- [Env_Vars](#Env_Vars)
 
 
 ## Description
