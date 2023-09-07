@@ -5,10 +5,10 @@
 ## Description
 ---
 
-##  Venv and requirement
+##  Venv And Eequirement
 ---
 
-## How to Install
+## How To Install
 ---
 1. : What to do
    
@@ -19,9 +19,9 @@
    `cmd`
 
 
-## How to Use the Project
+## How To Use The Project
 ---
-# Quick start 
+# Quick Start 
 1. : What to do
    
    `cmd`
@@ -33,11 +33,11 @@
 ### License
 ---
 
-### Run tests
+### Run Tests
 ---
 
 
-### CLI help
+### Help
 ---
 
 
@@ -45,12 +45,12 @@
 ### Build
 ---
 
-### Generate doc
+### Generate Doc
 ---
 
 
 
-### Env vars
+### Env Vars
 ---
 
 | ENV VAR Name | Description | Values | 
